@@ -1,0 +1,15 @@
+body{
+    background-color: pink;
+}
+table{
+    width: 100px;
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+center{
+    width:50%;
+    border-collapse: collapse;
+    margin-left: 250px;
+    background-color: aqua;
+}
